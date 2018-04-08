@@ -1,0 +1,6 @@
+# Env Application
+API_PORT=3000
+API_ROUTE='/api/v1'
+
+# Url MongoDB Connect
+MONGODB_URL='mongodb://localhost/crudBooks'
